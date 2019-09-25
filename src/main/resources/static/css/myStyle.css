@@ -1,0 +1,18 @@
+
+body {
+    background-color: indianred;
+}
+
+h1 {
+    text-align: left;
+}
+
+.sueH1 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.sueH1#sueId {
+    text-align: right;
+    color: peru;
+}
